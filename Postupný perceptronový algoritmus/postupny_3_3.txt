@@ -1,0 +1,10 @@
+Finalni nadrovina: [-136.08000000016835, -146.31999999989858, 2710]
+Pocatecni parametr uceni: 1
+Konecny parametr uceni: 1
+Pocet cyklu: 100000
+Pocet kroku (pocet zmen nadroviny): 331795
+Spatne klasifikovane body na konci: 4
+Pocet celkem spatne klasifikovanych bodu: 331794
+Pocet bodu: 40
+
+TIME-OUT na počet cyklů - nejspíš lineárně neseparovatelný případ

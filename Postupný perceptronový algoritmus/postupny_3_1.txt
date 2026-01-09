@@ -1,0 +1,10 @@
+Finalni nadrovina: [np.float64(-0.5614364947634759), np.float64(-0.7524502413526942), np.float64(12.366033637829897)]
+Pocatecni parametr uceni: 1
+Konecny parametr uceni: 0.003162277660168379
+Pocet cyklu: 100000
+Pocet kroku (pocet zmen nadroviny): 684923
+Spatne klasifikovane body na konci: 2
+Pocet celkem spatne klasifikovanych bodu: 684922
+Pocet bodu: 40
+
+TIME-OUT na počet cyklů - nejspíš lineárně neseparovatelný případ

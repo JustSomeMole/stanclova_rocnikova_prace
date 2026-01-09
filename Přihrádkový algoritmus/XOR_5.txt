@@ -1,0 +1,19 @@
+PŘIHRÁDKOVÝ ALGORITMUS
+Finalni nadrovina: [np.float64(-0.5871127501525566), np.float64(1.97330860492078), np.float64(-1.0860920021741658)]
+Pocatecni parametr uceni: 1
+Pocet cyklu: 10000
+Pocet kroku (pocet zmen nadroviny): 10001
+Pocet celkem spatne klasifikovanych bodu: 19098
+Pocet bodu: 4
+
+Počáteční nadrovina: [1,1,0.5]
+
+Snižování parametru: 1/druhá odmocnina z cyklu
+
+Konečný počet špatně klasifikovaných: 1
+
+Body:
+1,1.2,1
+1,2.5,-1
+3,1,-1
+4,5,1

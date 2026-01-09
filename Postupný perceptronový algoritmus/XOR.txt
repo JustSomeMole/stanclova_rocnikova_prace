@@ -1,0 +1,9 @@
+POSTUPNÝ PERCEPTRONOVÝ ALGORITMUS
+Finalni nadrovina: [np.float64(0.08520243111603545), np.float64(0.06700549265561566), np.float64(-0.2177814880582356)]
+Pocatecni parametr uceni: 1
+Pocet cyklu: 10000
+Pocet kroku (pocet zmen nadroviny): 39685
+Pocet celkem spatne klasifikovanych bodu: 39684
+Pocet bodu: 4
+
+TIME-OUT na počet cyklů - nejspíš lineárně neseparovatelný případ

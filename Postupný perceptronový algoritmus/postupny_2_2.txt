@@ -1,0 +1,9 @@
+Finalni nadrovina: [0.008259658617734172, -0.6679371556226822, 8.22460160948517]
+Pocatecni parametr uceni: 1
+Konecny parametr uceni: 0.04
+Pocet cyklu: 25
+Pocet kroku (pocet zmen nadroviny): 96
+Spatne klasifikovane body na konci: 0
+Pocet celkem spatne klasifikovanych bodu: 95
+Pocet bodu: 400
+

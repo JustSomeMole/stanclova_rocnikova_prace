@@ -1,0 +1,9 @@
+Finalni nadrovina: [np.float64(-9.099311196607976), np.float64(1.0047267810276832), np.float64(24.694896908925777)]
+Pocatecni parametr uceni: 1.0
+Konecny parametr uceni: 0.0604122093330177
+Pocet cyklu: 274
+Pocet kroku (pocet zmen nadroviny): 275
+Spatne klasifikovane body na konci: 0
+Pocet celkem spatne klasifikovanych bodu: 472
+Pocet bodu: 10
+
